@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; Register .dpp extension
+[HKEY_CLASSES_ROOT\.dpp]
+@="DPPFile"
+
+; File type description
+[HKEY_CLASSES_ROOT\DPPFile]
+@="D++ Source File"
+
+; Optional: default editor (change path if needed)
+[HKEY_CLASSES_ROOT\DPPFile\shell\open\command]
+@="\"C:\\Program Files\\Infosoft\\D++ IS Shell\" \"%1\""
