@@ -15,7 +15,7 @@ Here is a code sample:
 
 Kernel distribution in VM:
 
-´´´ dpp
+```dpp
 using system.windows.winv.ver.wmsdos.win32.api;
 using system.config.win.win32.api.server;
 using system.windows.msdos;
@@ -24,7 +24,7 @@ fn::load -> created(Main): protected{
   kernel::loaddistrubution: krnl.load;
   end::line* protected
 }
-´´´
+```
 
 # Copyright
 if you have a .dpp or .dppt, then please note that it will have the IE(internet explorer) Logo, because the problem is that we have the .reg file that get =s the logo **from your computer in this case from C:\\Program Files (x86)\\Internet Explorer\\ieinstal.exe**, so it is being used from your computer, *NOTE*: Your computer has not been harmed, in anyway.
