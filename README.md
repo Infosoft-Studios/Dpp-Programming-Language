@@ -245,6 +245,9 @@ KernelFault::PrivilegeViolation
 - Protected trait implementations  
 - Kernelbound structs  
 
+### Current version:
+Version 1.0.1
+
 ---
 
 ## ❤️ Created by Infosoft(sa)
