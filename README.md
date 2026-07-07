@@ -255,3 +255,7 @@ Adding current Update: OKE(outside kernel enviourment(PCB, CPU transistors, Moni
 ## ❤️ Created by Infosoft(sa)
 (C) infosoft(sa) program
 
+Logo:
+<img width="250" height="190" alt="image" src="https://github.com/user-attachments/assets/200ccc65-51e4-4377-b92a-ec8eab5a7332" />
+
+All rights reserved (C), Logo from D Lang Foundation, edited using Adobe Express Background remover + Preview editing
