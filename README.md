@@ -248,6 +248,7 @@ KernelFault::PrivilegeViolation
 
 ### Current version:
 Version 1.1.1
+Adding current Update: OKE(outside kernel enviourment(PCB, CPU transistors, Monitor etc[...])) and DASM(D-ASM or DPP-ASSEMBLY)
 
 ---
 
