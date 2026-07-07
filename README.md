@@ -1,3 +1,7 @@
+                                        
+<img width="250" height="190" alt="image" src="https://github.com/user-attachments/assets/200ccc65-51e4-4377-b92a-ec8eab5a7332" />
+
+
 # D++ — Ultra‑Speed System Language  
 A modern, kernel‑aware, protected‑execution programming language built from **C + C++ + ASM**, powered by the **US Compiler (Ultra‑Speed Compiler)**.
 
@@ -254,8 +258,5 @@ Adding current Update: OKE(outside kernel enviourment(PCB, CPU transistors, Moni
 
 ## ❤️ Created by Infosoft(sa)
 (C) infosoft(sa) program
-
-Logo:
-<img width="250" height="190" alt="image" src="https://github.com/user-attachments/assets/200ccc65-51e4-4377-b92a-ec8eab5a7332" />
 
 All rights reserved (C), Logo from D Lang Foundation, edited using Adobe Express Background remover + Preview editing
