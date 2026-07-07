@@ -243,10 +243,11 @@ KernelFault::PrivilegeViolation
 - US‑IR optimization layers  
 - Multi‑target compilation  
 - Protected trait implementations  
-- Kernelbound structs  
+- Kernelbound structs
+- D++ AAPI(Advanced API)
 
 ### Current version:
-Version 1.0.3
+Version 1.1.0
 
 ---
 
