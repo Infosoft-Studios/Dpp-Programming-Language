@@ -1,7 +1,4 @@
-
-<img width="250" height="190" alt="image" src="https://github.com/user-attachments/assets/200ccc65-51e4-4377-b92a-ec8eab5a7332" />
-*D++ Logo extracted by dlang foundation, rights reserved under Creator stat*
-
+<img width="977" height="1024" alt="image" src="https://github.com/user-attachments/assets/f2578abd-742b-450e-8b85-4469499c51ec" />
 
 # D++ — Ultra‑Speed System Language  
 A modern, kernel‑aware, protected‑execution programming language built from **C + C++ + ASM**, powered by the **US Compiler (Ultra‑Speed Compiler)**.
@@ -260,4 +257,4 @@ Adding current Update: OKE(outside kernel enviourment(PCB, CPU transistors, Moni
 ## ❤️ Created by Infosoft(sa)
 (C) infosoft(sa) program
 
-All rights reserved (C), Logo from D Lang Foundation, edited using Adobe Express Background remover + Preview editing
+All Rights reserved ©️, The D++ Logo is changed from C++ Logo using Canva
