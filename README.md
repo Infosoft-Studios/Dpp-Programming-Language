@@ -184,6 +184,9 @@ DPP_RUNTIME_GUARD=strict
 > ⚠️ **Protected mode must always end with a termination marker.**  
 > ⚠️ **Namespace resolution is strict and hierarchical.**
 
+> *Compiler Note:* Do not use ECPP(embedded C++ using software) in D++[.] D++ is a language by itself.
+> ⚠️ using ECPP software will or can crash or harm your computer, by using the default Compiler, the Default Compiler uses your kernel for informations and etc[...]
+
 ---
 
 ## 🛠️ Advanced Features
