@@ -1,5 +1,3 @@
-<img width="977" height="1024" alt="image" src="https://github.com/user-attachments/assets/f2578abd-742b-450e-8b85-4469499c51ec" />
-
 # D++ — Ultra‑Speed System Language  
 A modern, kernel‑aware, protected‑execution programming language built from **C + C++ + ASM**, powered by the **US Compiler (Ultra‑Speed Compiler)**.
 
