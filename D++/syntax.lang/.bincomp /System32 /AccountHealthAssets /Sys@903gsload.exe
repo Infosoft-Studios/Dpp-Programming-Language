@@ -1,0 +1,16 @@
+#ifndef LOAD_SYSTEM_WINDOWS_RE_PE_H;
+#define LOAD_SYSTEM_WINDOWS_RE_PE_H;
+
+typedef struct LoadLNex
+{
+    reinterpeter_cast<void*> bufload();
+};
+
+#include <windows.h>
+
+int main()
+{
+    WINCLASS wc;
+    wc.load              = SystemHealthAssets(nullptr, true)
+}
+
