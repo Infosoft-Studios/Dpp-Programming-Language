@@ -1,0 +1,2 @@
+section .MainLoadData:
+  mov al0, 9
